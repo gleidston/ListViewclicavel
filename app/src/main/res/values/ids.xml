@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dessert_number" type="id" />
+    <item name="dessert_name" type="id" />
+    <item name="list_item_icon" type="id" />
+</resources>
